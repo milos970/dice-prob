@@ -15,23 +15,31 @@
 
 ## 🧰 Technologies
 
-### 🔹 Languages & Frameworks  
-<ul>
-  <li>Java</li>
-  <li>Java Swing</li>
-</ul>
+<table><tr><td valign="top" width="33%">
 
-### 🔹 Development & Testing  
-<ul>
- <li>Git</li>
+
+
+### Languages & Frameworks  
+<div align="left">
+  <ul style="list-style-type: disc; display: inline-block;">
+    <li>Java</li>
+    <li>Java Swing</li>
+  </ul>
+</div>
+
+
+</td><td valign="top" width="33%">
+
+
+
+###  Development & Testing   
+<div align="left">
+  <ul style="list-style-type: disc; display: inline-block;">
+    <li>Git</li>
   <li>Git Extensions</li>
   <li>BlueJ</li>
   <li>Trello</li>
   <li>Teams</li>
-</ul>
+  </ul>
+</div>
 
-
-
-<h2>Preview</h2>
-
-![me](https://github.com/milos970/assets/blob/d923659d2d235eb1980aaafbed1f9fe103e0ca20/images/dice.gif)
