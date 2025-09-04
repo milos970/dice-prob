@@ -19,12 +19,18 @@
 <ul>
   <li>Java</li>
   <li>Java Swing</li>
-  <li>Git</li>
+</ul>
+
+### 🔹 Development & Testing  
+<ul>
+ <li>Git</li>
   <li>Git Extensions</li>
   <li>BlueJ</li>
   <li>Trello</li>
   <li>Teams</li>
 </ul>
+
+
 
 <h2>Preview</h2>
 
